@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IslandoftheDamned.console", "IslandoftheDamned\IslandoftheDamned.console.csproj", "{12AAB817-911C-4B7F-A7C8-D71FB551DD0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandoftheDamned.models", "IslandoftheDamned.models\IslandoftheDamned.models.csproj", "{8B819C29-ECB3-490A-8A1E-DB77ED505640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IslandoftheDamned.models", "IslandoftheDamned.models\IslandoftheDamned.models.csproj", "{8B819C29-ECB3-490A-8A1E-DB77ED505640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandoftheDamned.tui", "IslandoftheDamned.tui\IslandoftheDamned.tui.csproj", "{EB59DEA5-0983-438B-BF52-F54CBFAF863D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8B819C29-ECB3-490A-8A1E-DB77ED505640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B819C29-ECB3-490A-8A1E-DB77ED505640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B819C29-ECB3-490A-8A1E-DB77ED505640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB59DEA5-0983-438B-BF52-F54CBFAF863D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB59DEA5-0983-438B-BF52-F54CBFAF863D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB59DEA5-0983-438B-BF52-F54CBFAF863D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB59DEA5-0983-438B-BF52-F54CBFAF863D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
